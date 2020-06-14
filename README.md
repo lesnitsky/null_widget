@@ -6,7 +6,7 @@
 
 Tiny widget which is good to be used as a placeholder
 
-[This article] explains the motivation behind this widget
+[This article](https://lesnitsky.dev/notes/fighting-null-in-your-dart-and-flutter-applications) explains the motivation behind this widget
 
 ## Installation
 
