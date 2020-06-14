@@ -6,6 +6,8 @@
 
 Tiny widget which is good to be used as a placeholder
 
+[This article] explains the motivation behind this widget
+
 ## Installation
 
 pubspec.yaml:
